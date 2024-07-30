@@ -1,4 +1,7 @@
-# Assignment2
+# (2024A) COMP - 5450 - AA : Mobile Programming
+# Assignment2 
+# Divyam Harish Patel
+# 1229740
 
 ## For performing Assignment 2 as per guidlines and instruction given, I created a Song plylist app in which user can add thier song name and select the genere of the song along with working radio choosing audio and video option for song. The list will appear below the add song to the playlist button. 
 
